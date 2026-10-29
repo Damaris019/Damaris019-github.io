@@ -30,7 +30,7 @@ body {
   padding: 2rem 1rem;
   background: var(--background);
   color: var(--text);
-  font-family: var(--font);
+  font-family: var(Georgia);
   font-size: 1.1rem;
   line-height: 1.6;
 }
